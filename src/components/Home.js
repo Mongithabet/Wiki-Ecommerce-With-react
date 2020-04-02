@@ -1,15 +1,15 @@
-import React from 'react'
-
+import React from 'react';
+import Slide from './Slide';
 const Home = () => {
     return (
-        <div className="container bg" >
+        
             
 
-            <p>Hello</p>   
+            <Slide/>  
 
 
             
-        </div>
+        
     )
 }
 
